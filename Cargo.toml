@@ -28,6 +28,7 @@ members = [
   "grug/app",
   "grug/client",
   "grug/crypto",
+  "tools/workspace-lint",
   "grug/db/disk",
   "grug/db/memory",
   "grug/ffi",

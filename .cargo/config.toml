@@ -1,2 +1,5 @@
 [target.aarch64-unknown-linux-gnu]
 linker = "aarch64-linux-gnu-gcc"
+
+[alias]
+fmt = "run --manifest-path tools/workspace-lint/Cargo.toml --"
